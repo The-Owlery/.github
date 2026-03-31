@@ -23,6 +23,10 @@ This organization is home to members of the **Rest of the Owl** Discord — a co
 
 Your full private projects. Those live on your own profile. The Owlery is for sharing, not building.
 
+## Need a project?
+
+If you're looking for something to build, take a look at [The Owlery project ideas](https://github.com/The-Owlery/project-ideas). It's a better home for project inspiration than this org profile.
+
 ## The spirit of the space
 
 The Owlery is built on the same values as the Discord: **curiosity, generosity, and growth**. Share your messy code. Ask dumb questions. Review each other's work. The goal isn't perfection — it's progress.
